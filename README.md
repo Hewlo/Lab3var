@@ -1,5 +1,6 @@
-Reference for SES PA.
-Download by clicking the green Code button at the top right and clicking Download ZIP.
+# Reference for SES PA.
+Download by clicking the green Code button at the top right and clicking Download ZIP.\
+\
 Unzip and open the folder via PyCharm.
 
 Ignore this error message if it appears at the bottom right:
